@@ -1,2 +1,2 @@
-# Gastremoprintplate
+# printplate
 make printplate from GASTREMO system
